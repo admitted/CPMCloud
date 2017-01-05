@@ -1,0 +1,27 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".MyCamera" >
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/ls"
+    android:orientation="vertical"
+    android:paddingBottom="10dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="10dp"
+    android:paddingTop="20dp" >
+
+	<ListView
+	    android:id="@+id/ListView01"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:cacheColorHint="@color/green"
+	    android:choiceMode="singleChoice" >
+
+	</ListView>
+	
+</LinearLayout>
+</RelativeLayout>

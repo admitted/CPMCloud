@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">米窝</string>
+    <string name="user_name">用户名：</string>
+    <string name="password">密   码：</string>
+    <string name="save_name">保存账号：</string>
+    <string name="login">登 录</string>
+    <string name="list">监控列表</string>
+    <string name="one">广州：远东营业厅大厅</string>
+    <string name="two">营业厅柜台</string>
+    <string name="three">广州：营业厅柜台</string>
+    <string name="four">营业厅</string>
+    <string name="five">万源营业厅</string>
+    <string name="help">帮助信息</string>
+    <string name="SaveOn">保存帐号</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_my_camera">MyCameraActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="IpcList">监控列表</string>
+    <string name="服务器">Server</string>
+    <string name="title_activity_my_home_page">MyHomePage</string>
+    <string name="title_activity_alarm_page">告警信息</string>
+    <string name="title_activity_control_page">家居控制</string>
+    <string name="title_activity_electrical_page">ElectricalPage</string>
+    <string name="title_activity_setting_page">设置</string>
+    <string name="title_activity_my_home_page1">我的家</string>
+    <string name="title_activity_cpm_setting">CpmSetting</string>
+    <string name="title_activity_user_info_page">家庭成员</string>
+    <string name="title_activity_test_page">TestPage</string>
+    <string name="title_activity_loading_page">处理中</string>
+    <string name="title_activity_hkplayer1">播放视频</string>
+
+</resources>

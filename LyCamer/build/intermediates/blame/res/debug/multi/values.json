@@ -1,0 +1,1696 @@
+[
+    {
+        "outputFile": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 103,
+                    "endColumn": 15,
+                    "endOffset": 1697
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 53,
+                        "endLine": 103,
+                        "endColumn": 15,
+                        "endOffset": 1796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 1702,
+                    "endColumn": 39,
+                    "endOffset": 1737
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 206,
+                        "endColumn": 36,
+                        "endOffset": 241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 1742,
+                    "endColumn": 38,
+                    "endOffset": 1776
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 131,
+                        "endColumn": 35,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 1781,
+                    "endColumn": 38,
+                    "endOffset": 1815
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 244,
+                        "endColumn": 35,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 1820,
+                    "endColumn": 39,
+                    "endOffset": 1855
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 93,
+                        "endColumn": 36,
+                        "endOffset": 128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 1860,
+                    "endColumn": 37,
+                    "endOffset": 1893
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 37,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 1898,
+                    "endColumn": 58,
+                    "endOffset": 1952
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 58,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 1957,
+                    "endColumn": 59,
+                    "endOffset": 2012
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 59,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 2017,
+                    "endColumn": 59,
+                    "endOffset": 2072
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 59,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 2077,
+                    "endColumn": 59,
+                    "endOffset": 2132
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 59,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 2137,
+                    "endColumn": 39,
+                    "endOffset": 2172
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 168,
+                        "endColumn": 36,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 2177,
+                    "endColumn": 40,
+                    "endOffset": 2213
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 281,
+                        "endColumn": 37,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 2218,
+                    "endColumn": 40,
+                    "endOffset": 2254
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 40,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 2259,
+                    "endColumn": 39,
+                    "endOffset": 2294
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 556,
+                        "endColumn": 39,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 2299,
+                    "endColumn": 39,
+                    "endOffset": 2334
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 39,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 2339,
+                    "endColumn": 38,
+                    "endOffset": 2373
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 477,
+                        "endColumn": 38,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 2378,
+                    "endColumn": 36,
+                    "endOffset": 2410
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 439,
+                        "endColumn": 36,
+                        "endOffset": 471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 2415,
+                    "endColumn": 52,
+                    "endOffset": 2463
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 597,
+                        "endColumn": 52,
+                        "endOffset": 645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 2468,
+                    "endColumn": 37,
+                    "endOffset": 2501
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 517,
+                        "endColumn": 37,
+                        "endOffset": 550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 2506,
+                    "endColumn": 37,
+                    "endOffset": 2539
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 273,
+                        "endColumn": 37,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 2544,
+                    "endColumn": 37,
+                    "endOffset": 2577
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 37,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 2582,
+                    "endColumn": 50,
+                    "endOffset": 2628
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 50,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 2633,
+                    "endColumn": 42,
+                    "endOffset": 2671
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 312,
+                        "endColumn": 42,
+                        "endOffset": 350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 2676,
+                    "endColumn": 43,
+                    "endOffset": 2715
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 43,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 2720,
+                    "endColumn": 43,
+                    "endOffset": 2759
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 43,
+                        "endOffset": 228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 2764,
+                    "endColumn": 42,
+                    "endOffset": 2802
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 42,
+                        "endOffset": 433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 2807,
+                    "endColumn": 58,
+                    "endOffset": 2861
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 986,
+                        "endColumn": 58,
+                        "endOffset": 1040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 2866,
+                    "endColumn": 60,
+                    "endOffset": 2922
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1046,
+                        "endColumn": 60,
+                        "endOffset": 1102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 2927,
+                    "endColumn": 65,
+                    "endOffset": 2988
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1305,
+                        "endColumn": 65,
+                        "endOffset": 1366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 2993,
+                    "endColumn": 73,
+                    "endOffset": 3062
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1108,
+                        "endColumn": 73,
+                        "endOffset": 1177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 3067,
+                    "endColumn": 57,
+                    "endOffset": 3120
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1560,
+                        "endColumn": 57,
+                        "endOffset": 1613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 3125,
+                    "endColumn": 59,
+                    "endOffset": 3180
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1499,
+                        "endColumn": 59,
+                        "endOffset": 1554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 3185,
+                    "endColumn": 60,
+                    "endOffset": 3241
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 774,
+                        "endColumn": 60,
+                        "endOffset": 830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 3246,
+                    "endColumn": 69,
+                    "endOffset": 3311
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 703,
+                        "endColumn": 69,
+                        "endOffset": 768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 3316,
+                    "endColumn": 66,
+                    "endOffset": 3378
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 918,
+                        "endColumn": 66,
+                        "endOffset": 980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 3383,
+                    "endColumn": 60,
+                    "endOffset": 3439
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1243,
+                        "endColumn": 60,
+                        "endOffset": 1299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 3444,
+                    "endColumn": 58,
+                    "endOffset": 3498
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1183,
+                        "endColumn": 58,
+                        "endOffset": 1237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 3503,
+                    "endColumn": 61,
+                    "endOffset": 3560
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1436,
+                        "endColumn": 61,
+                        "endOffset": 1493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 3565,
+                    "endColumn": 62,
+                    "endOffset": 3623
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1372,
+                        "endColumn": 62,
+                        "endOffset": 1430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 3628,
+                    "endColumn": 37,
+                    "endOffset": 3661
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 37,
+                        "endOffset": 389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 3666,
+                    "endColumn": 42,
+                    "endOffset": 3704
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 42,
+                        "endOffset": 138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 3709,
+                    "endColumn": 38,
+                    "endOffset": 3743
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endColumn": 38,
+                        "endOffset": 912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 3748,
+                    "endLine": 150,
+                    "endColumn": 8,
+                    "endOffset": 4045
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\style.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 53,
+                        "endLine": 7,
+                        "endColumn": 8,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 4050,
+                    "endLine": 156,
+                    "endColumn": 8,
+                    "endOffset": 4349
+                },
+                "from": {
+                    "file": "E:\\Users\\cui\\AndroidStudioProjects\\miwo\\LyCamer\\src\\main\\res\\values\\style.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 357,
+                        "endLine": 13,
+                        "endColumn": 8,
+                        "endOffset": 661
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\github\\CPMCloud\\LyCamer\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 103,
+                    "endColumn": 15,
+                    "endOffset": 1697
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 53,
+                        "endLine": 103,
+                        "endColumn": 15,
+                        "endOffset": 1796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 1702,
+                    "endColumn": 39,
+                    "endOffset": 1737
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 206,
+                        "endColumn": 36,
+                        "endOffset": 241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 1742,
+                    "endColumn": 38,
+                    "endOffset": 1776
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 131,
+                        "endColumn": 35,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 1781,
+                    "endColumn": 38,
+                    "endOffset": 1815
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 244,
+                        "endColumn": 35,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 1820,
+                    "endColumn": 39,
+                    "endOffset": 1855
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 93,
+                        "endColumn": 36,
+                        "endOffset": 128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 1860,
+                    "endColumn": 37,
+                    "endOffset": 1893
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 37,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 1898,
+                    "endColumn": 58,
+                    "endOffset": 1952
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 58,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 1957,
+                    "endColumn": 59,
+                    "endOffset": 2012
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 59,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 2017,
+                    "endColumn": 59,
+                    "endOffset": 2072
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 59,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 2077,
+                    "endColumn": 59,
+                    "endOffset": 2132
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 59,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 2137,
+                    "endColumn": 39,
+                    "endOffset": 2172
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 168,
+                        "endColumn": 36,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 2177,
+                    "endColumn": 40,
+                    "endOffset": 2213
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 281,
+                        "endColumn": 37,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 2218,
+                    "endColumn": 40,
+                    "endOffset": 2254
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 40,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 2259,
+                    "endColumn": 39,
+                    "endOffset": 2294
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 556,
+                        "endColumn": 39,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 2299,
+                    "endColumn": 39,
+                    "endOffset": 2334
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 39,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 2339,
+                    "endColumn": 38,
+                    "endOffset": 2373
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 477,
+                        "endColumn": 38,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 2378,
+                    "endColumn": 36,
+                    "endOffset": 2410
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 439,
+                        "endColumn": 36,
+                        "endOffset": 471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 2415,
+                    "endColumn": 52,
+                    "endOffset": 2463
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 597,
+                        "endColumn": 52,
+                        "endOffset": 645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 2468,
+                    "endColumn": 37,
+                    "endOffset": 2501
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 517,
+                        "endColumn": 37,
+                        "endOffset": 550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 2506,
+                    "endColumn": 37,
+                    "endOffset": 2539
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 273,
+                        "endColumn": 37,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 2544,
+                    "endColumn": 37,
+                    "endOffset": 2577
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 37,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 2582,
+                    "endColumn": 50,
+                    "endOffset": 2628
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 50,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 2633,
+                    "endColumn": 42,
+                    "endOffset": 2671
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 312,
+                        "endColumn": 42,
+                        "endOffset": 350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 2676,
+                    "endColumn": 43,
+                    "endOffset": 2715
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 43,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 2720,
+                    "endColumn": 43,
+                    "endOffset": 2759
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 43,
+                        "endOffset": 228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 2764,
+                    "endColumn": 42,
+                    "endOffset": 2802
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 42,
+                        "endOffset": 433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 2807,
+                    "endColumn": 58,
+                    "endOffset": 2861
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 986,
+                        "endColumn": 58,
+                        "endOffset": 1040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 2866,
+                    "endColumn": 60,
+                    "endOffset": 2922
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1046,
+                        "endColumn": 60,
+                        "endOffset": 1102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 2927,
+                    "endColumn": 65,
+                    "endOffset": 2988
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1305,
+                        "endColumn": 65,
+                        "endOffset": 1366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 2993,
+                    "endColumn": 73,
+                    "endOffset": 3062
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1108,
+                        "endColumn": 73,
+                        "endOffset": 1177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 3067,
+                    "endColumn": 57,
+                    "endOffset": 3120
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1560,
+                        "endColumn": 57,
+                        "endOffset": 1613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 3125,
+                    "endColumn": 59,
+                    "endOffset": 3180
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1499,
+                        "endColumn": 59,
+                        "endOffset": 1554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 3185,
+                    "endColumn": 60,
+                    "endOffset": 3241
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 774,
+                        "endColumn": 60,
+                        "endOffset": 830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 3246,
+                    "endColumn": 69,
+                    "endOffset": 3311
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 703,
+                        "endColumn": 69,
+                        "endOffset": 768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 3316,
+                    "endColumn": 66,
+                    "endOffset": 3378
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 918,
+                        "endColumn": 66,
+                        "endOffset": 980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 3383,
+                    "endColumn": 60,
+                    "endOffset": 3439
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1243,
+                        "endColumn": 60,
+                        "endOffset": 1299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 3444,
+                    "endColumn": 58,
+                    "endOffset": 3498
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1183,
+                        "endColumn": 58,
+                        "endOffset": 1237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 3503,
+                    "endColumn": 61,
+                    "endOffset": 3560
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1436,
+                        "endColumn": 61,
+                        "endOffset": 1493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 3565,
+                    "endColumn": 62,
+                    "endOffset": 3623
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1372,
+                        "endColumn": 62,
+                        "endOffset": 1430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 3628,
+                    "endColumn": 37,
+                    "endOffset": 3661
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 37,
+                        "endOffset": 389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 3666,
+                    "endColumn": 42,
+                    "endOffset": 3704
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 42,
+                        "endOffset": 138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 3709,
+                    "endColumn": 38,
+                    "endOffset": 3743
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endColumn": 38,
+                        "endOffset": 912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 3748,
+                    "endLine": 150,
+                    "endColumn": 8,
+                    "endOffset": 4045
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\style.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 53,
+                        "endLine": 7,
+                        "endColumn": 8,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 4050,
+                    "endLine": 156,
+                    "endColumn": 8,
+                    "endOffset": 4349
+                },
+                "from": {
+                    "file": "E:\\github\\CPMCloud\\LyCamer\\src\\main\\res\\values\\style.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 357,
+                        "endLine": 13,
+                        "endColumn": 8,
+                        "endOffset": 661
+                    }
+                }
+            }
+        ]
+    }
+]

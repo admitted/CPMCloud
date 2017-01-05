@@ -1,0 +1,67 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".UserInfoPage" >
+
+<LinearLayout
+    android:id="@+id/linearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentRight="true" >
+
+        <Button
+            android:id="@+id/BtnCloseUserInfoPage"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/menu_close_window" />
+
+        <TextView
+            android:id="@+id/tvUserInfoPageTitle"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="8dp"
+            android:layout_weight="0.74"
+            android:text="家庭成员"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+        <ImageButton
+            android:id="@+id/BtnAddUser"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dp"
+            android:background="@color/transparent_background"
+            android:scaleType="fitXY"
+            android:src="@drawable/menu_open_in_newwindow" />
+
+    </LinearLayout>
+
+<android.widget.GridLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+
+<android.widget.Space
+    android:id="@+id/space1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+
+<GridView
+    android:id="@+id/gvUserInfos"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/linearLayout1"
+    android:layout_margin="10dp"
+    android:columnWidth="90dp"
+    android:horizontalSpacing="10dp"
+    android:numColumns="auto_fit"
+    android:stretchMode="columnWidth"
+    android:verticalSpacing="10dp" >
+
+</GridView>
+</RelativeLayout>

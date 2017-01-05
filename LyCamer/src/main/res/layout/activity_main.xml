@@ -1,0 +1,194 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bgrl1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/lg4"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llogin1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="83dp"
+        android:gravity="left"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/ivlogo"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/headlogo" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="10dip" >
+
+        <TextView
+            android:id="@+id/TextView01"
+            android:layout_width="85dip"
+            android:layout_height="fill_parent"
+            android:gravity="center_vertical|right"
+            android:text="@string/user_name"
+            android:textColor="@color/black"
+            android:textSize="17dip"
+            android:visibility="gone" />
+
+        <EditText
+            android:id="@+id/EditText01"
+            android:layout_width="170dip"
+            android:layout_height="40dip"
+            android:inputType="textUri|textMultiLine"
+            android:text="demo"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="10dip" >
+
+        <TextView
+            android:id="@+id/TextView02"
+            android:layout_width="85dip"
+            android:layout_height="fill_parent"
+            android:gravity="center_vertical|right"
+            android:text="@string/password"
+            android:textColor="@color/black"
+            android:textSize="17dip"
+            android:visibility="gone" />
+
+        <EditText
+            android:id="@+id/EditText02"
+            android:layout_width="170dip"
+            android:layout_height="40dip"
+            android:inputType="textUri|textMultiLine"
+            android:password="true"
+            android:text="demo"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:layout_weight="0.09"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="10dip" >
+
+        <Button
+            android:id="@+id/Button02"
+            android:layout_width="140dip"
+            android:layout_height="wrap_content"
+            android:text="@string/login"
+            android:visibility="gone"  
+            android:textSize="20dip" />
+
+        <ToggleButton
+            android:id="@+id/ToggleButton01"
+            android:layout_width="138dp"
+            android:layout_height="wrap_content"
+            android:textOff="@string/SaveOn"
+            android:textOn="@string/SaveOn"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.08" >
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.08"
+        android:baselineAligned="true"
+        android:gravity="right|bottom"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="130dp"
+            android:layout_weight="0.60" >
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="145dp"
+            android:layout_weight="0.40"
+            android:gravity="bottom" >
+
+            <Button
+                android:id="@+id/BtnMyHome"
+                android:layout_width="fill_parent"
+                android:layout_height="62dp"
+                android:text="我的家" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="137dp"
+            android:gravity="bottom" >
+
+            <Button
+                android:id="@+id/BtnLive"
+                android:layout_width="87dp"
+                android:layout_height="127dp"
+                android:text="生活" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="74dp"
+            android:layout_height="170dp"
+            android:layout_weight="0.26"
+            android:baselineAligned="false"
+            android:gravity="bottom" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="170dp"
+                android:layout_weight="1"
+                android:gravity="bottom"
+                android:orientation="vertical" >
+
+                <Button
+                    android:id="@+id/BtnArea"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.10"
+                    android:text="社区" />
+
+                <Button
+                    android:id="@+id/BtnSetting"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="设置" />
+            </LinearLayout>
+
+        </LinearLayout>
+        
+    </LinearLayout>
+
+</LinearLayout>
+
+</RelativeLayout>

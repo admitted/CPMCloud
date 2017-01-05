@@ -1,0 +1,95 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".HKPLayer" >
+
+<LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/body_bg"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="48dp"
+            android:background="@color/transparent_background2" >
+
+            <Button
+                android:id="@+id/BtnCloseHKPlayPage"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/menu_close_window" />
+
+            <TextView
+                android:id="@+id/txtIpcName"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="7dp"
+                android:text="TextView"
+                android:textColor="@color/white"
+                android:textSize="18dp" />
+
+        </LinearLayout>
+
+        <SurfaceView
+            android:id="@+id/Sur_Player"
+            android:layout_width="fill_parent"
+            android:layout_height="240dp"
+            android:layout_marginBottom="20dp"
+            android:background="#dd000000" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+            <ImageButton
+                android:id="@+id/BtnPtzUp"
+                android:layout_width="100dp"
+                android:layout_height="70dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/ptzup" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal" >
+
+                <ImageButton
+                    android:id="@+id/BtnPtzLeft"
+                    android:layout_width="100dp"
+                    android:layout_height="70dp"
+                    android:layout_marginRight="90dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/ptzleft" />
+
+                <ImageButton
+                    android:id="@+id/BtnPtzRight"
+                    android:layout_width="100dp"
+                    android:layout_height="70dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/ptzright" />
+
+            </LinearLayout>
+
+            <ImageButton
+                android:id="@+id/BtnPtzDown"
+                android:layout_width="100dp"
+                android:layout_height="70dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/ptzdown" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

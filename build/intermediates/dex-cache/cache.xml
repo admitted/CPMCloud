@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/cui/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/cui/AndroidStudioProjects/miwo/LyCamer/build/intermediates/pre-dexed/debug/support-v4-18.0.0_28c622eca33f7f2ab3330048de4074cc185ce54d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cui/AndroidStudioProjects/miwo/LyCamer/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25dbbee58c695897bd08354dea471f6b427dc3c0">
+        <dex dex="/Users/cui/AndroidStudioProjects/miwo/LyCamer/build/intermediates/pre-dexed/debug/instant-run_a4a155a41fe74041dadb44c86d809a642eacade8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cui/AndroidStudioProjects/miwo/LyCamer/libs/HCNetSDK.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bd378c0145343547b7d3d035a2916c04e5ecfdec">
+        <dex dex="/Users/cui/AndroidStudioProjects/miwo/LyCamer/build/intermediates/pre-dexed/debug/HCNetSDK_d31e9ca7b17b2a6daeee7e831a8379e3991cc87f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cui/AndroidStudioProjects/miwo/LyCamer/libs/PlayerSDK.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dc7c11551f53d85abf803c8c167e29fa24fdf88c">
+        <dex dex="/Users/cui/AndroidStudioProjects/miwo/LyCamer/build/intermediates/pre-dexed/debug/PlayerSDK_8e0b79637f6f33d0d929f53ef95ad047ae66c336.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cui/AndroidStudioProjects/miwo/LyCamer/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c31d97f474866ceb91f6bf488ceeecc43d0a2081">
+        <dex dex="/Users/cui/AndroidStudioProjects/miwo/LyCamer/build/intermediates/pre-dexed/debug/instant-run-bootstrap_2b056572916f9d260ca505084312ccff4cbef43e.jar" />
+    </item>
+
+</items>

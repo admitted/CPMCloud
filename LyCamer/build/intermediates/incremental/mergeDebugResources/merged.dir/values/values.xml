@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timeout_labels">
+<item>0</item>
+<item>1</item>
+<item>2</item>
+<item>3</item>
+<item>4</item>
+<item>5</item>
+<item>6</item>
+<item>7</item>
+<item>8</item>
+<item>9</item>
+<item>10</item>
+<item>11</item>
+<item>12</item>
+<item>13</item>
+<item>14</item>
+<item>15</item>
+<item>16</item>
+<item>17</item>
+<item>18</item>
+<item>19</item>
+<item>20</item>
+<item>21</item>
+<item>22</item>
+<item>23</item>
+<item>24</item>
+<item>25</item>
+<item>26</item>
+<item>27</item>
+<item>28</item>
+<item>29</item>
+<item>30</item>
+<item>31</item>
+<item>32</item>
+<item>33</item>
+<item>34</item>
+<item>35</item>
+<item>36</item>
+<item>37</item>
+<item>38</item>
+<item>39</item>
+<item>40</item>
+<item>41</item>
+<item>42</item>
+<item>43</item>
+<item>44</item>
+<item>45</item>
+<item>46</item>
+<item>47</item>
+<item>48</item>
+<item>49</item>
+<item>50</item>
+<item>51</item>
+<item>52</item>
+<item>53</item>
+<item>54</item>
+<item>55</item>
+<item>56</item>
+<item>57</item>
+<item>58</item>
+<item>59</item>
+<item>60</item>
+<item>61</item>
+<item>62</item>
+<item>63</item>
+<item>64</item>
+<item>65</item>
+<item>66</item>
+<item>67</item>
+<item>68</item>
+<item>69</item>
+<item>70</item>
+<item>71</item>
+<item>72</item>
+<item>73</item>
+<item>74</item>
+<item>75</item>
+<item>76</item>
+<item>77</item>
+<item>78</item>
+<item>79</item>
+<item>80</item>
+<item>81</item>
+<item>82</item>
+<item>83</item>
+<item>84</item>
+<item>85</item>
+<item>86</item>
+<item>87</item>
+<item>88</item>
+<item>89</item>
+<item>90</item>
+<item>91</item>
+<item>92</item>
+<item>93</item>
+<item>94</item>
+<item>95</item>
+<item>96</item>
+<item>97</item>
+<item>98</item>
+<item>99</item>
+</string-array>
+    <color name="black">#000000</color>
+    <color name="blue">#007cc2</color>
+    <color name="gray">#050505</color>
+    <color name="green">#9cfda3</color>
+    <color name="red">#fd8d8d</color>
+    <color name="transparent_background">#01ffffff</color>
+    <color name="transparent_background1">#aa000000</color>
+    <color name="transparent_background2">#aa0874B7</color>
+    <color name="transparent_background3">#EE9EE0FF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#e77918</color>
+    <string name="IpcList">监控列表</string>
+    <string name="SaveOn">保存帐号</string>
+    <string name="app_name">米窝</string>
+    <string name="five">万源营业厅</string>
+    <string name="four">营业厅</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="help">帮助信息</string>
+    <string name="list">监控列表</string>
+    <string name="login">登 录</string>
+    <string name="menu_settings">Settings</string>
+    <string name="one">广州：远东营业厅大厅</string>
+    <string name="password">密   码：</string>
+    <string name="save_name">保存账号：</string>
+    <string name="three">广州：营业厅柜台</string>
+    <string name="title_activity_alarm_page">告警信息</string>
+    <string name="title_activity_control_page">家居控制</string>
+    <string name="title_activity_cpm_setting">CpmSetting</string>
+    <string name="title_activity_electrical_page">ElectricalPage</string>
+    <string name="title_activity_hkplayer1">播放视频</string>
+    <string name="title_activity_loading_page">处理中</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_my_camera">MyCameraActivity</string>
+    <string name="title_activity_my_home_page">MyHomePage</string>
+    <string name="title_activity_my_home_page1">我的家</string>
+    <string name="title_activity_setting_page">设置</string>
+    <string name="title_activity_test_page">TestPage</string>
+    <string name="title_activity_user_info_page">家庭成员</string>
+    <string name="two">营业厅柜台</string>
+    <string name="user_name">用户名：</string>
+    <string name="服务器">Server</string>
+    <style name="Transparent">
+<item name="android:windowBackground">@color/transparent_background</item>
+<item name="android:windowNoTitle">true</item>
+<item name="android:windowIsTranslucent">true</item>
+<item name="android:windowAnimationStyle">@+android:style/Animation.Translucent</item>
+</style>
+    <style name="Transparent1">
+<item name="android:windowBackground">@color/transparent_background1</item>
+<item name="android:windowNoTitle">true</item>
+<item name="android:windowIsTranslucent">true</item>
+<item name="android:windowAnimationStyle">@+android:style/Animation.Translucent</item>
+</style>
+</resources>

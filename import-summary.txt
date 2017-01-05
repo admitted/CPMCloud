@@ -1,0 +1,71 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* .classpath.bak
+* .myeclipse/
+* .myeclipse/profiler/
+* .myeclipse/profiler/XMLUtil.xml
+* lib/
+* lib/ksoap2-android-assembly-2.4-jar-with-dependencies.jar
+* lib/ksoap2-android-assembly-2.5.2-jar-with-dependencies.jar
+* lib/ormlite-android-4.30.jar
+* lib/ormlite-core-4.30.jar
+* proguard.cfg
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => LyCamer/src/main/AndroidManifest.xml
+* assets/ => LyCamer/src/main/assets
+* libs/HCNetSDK.jar => LyCamer/libs/HCNetSDK.jar
+* libs/PlayerSDK.jar => LyCamer/libs/PlayerSDK.jar
+* libs/armeabi/libH264Android.so => LyCamer/src/main/jniLibs/armeabi/libH264Android.so
+* libs/armeabi/libH264Android2.so => LyCamer/src/main/jniLibs/armeabi/libH264Android2.so
+* libs/armeabi/libMPCtrl.so => LyCamer/src/main/jniLibs/armeabi/libMPCtrl.so
+* libs/armeabi/libPlayCtrl.so => LyCamer/src/main/jniLibs/armeabi/libPlayCtrl.so
+* libs/armeabi/libSystemTransform.so => LyCamer/src/main/jniLibs/armeabi/libSystemTransform.so
+* libs/armeabi/libhcnetsdk.so => LyCamer/src/main/jniLibs/armeabi/libhcnetsdk.so
+* res/ => LyCamer/src/main/res/
+* src/ => LyCamer/src/main/java/
+* src/.DS_Store => LyCamer/src/main/resources/.DS_Store
+* src/com/.DS_Store => LyCamer/src/main/resources/com/.DS_Store
+* src/h264/.DS_Store => LyCamer/src/main/resources/h264/.DS_Store
+* src/h264/play/.DS_Store => LyCamer/src/main/resources/h264/play/.DS_Store
+* src/xm/.DS_Store => LyCamer/src/main/resources/xm/.DS_Store
+* src/xm/eye/.DS_Store => LyCamer/src/main/resources/xm/eye/.DS_Store
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

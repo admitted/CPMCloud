@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/green"
+    android:orientation="vertical"
+    android:paddingBottom="0dp"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.20"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingBottom="10dip"
+        android:paddingTop="20dip" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="10dip" >
+
+        <TextView
+            android:id="@+id/TvServer"
+            android:layout_width="85dip"
+            android:layout_height="fill_parent"
+            android:gravity="center_vertical|right"
+            android:text="服务器"
+            android:textColor="@color/black"
+            android:textSize="17dip" />
+
+        <EditText
+            android:id="@+id/EtServer"
+            android:layout_width="wrap_content"
+            android:layout_height="40dip"
+            android:inputType="textUri"
+            android:text="cam.chinashilong.net" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="10dip" >
+
+        <TextView
+            android:id="@+id/TvPort"
+            android:layout_width="85dip"
+            android:layout_height="fill_parent"
+            android:gravity="center_vertical|right"
+            android:text="端口"
+            android:textColor="@color/black"
+            android:textSize="17dip" />
+
+        <EditText
+            android:id="@+id/EtPort"
+            android:layout_width="wrap_content"
+            android:layout_height="40dip"
+            android:layout_weight="0.18"
+            android:inputType="number"
+            android:text="80" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.05"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="10dip" >
+
+    </LinearLayout>
+
+   <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="10dip" >
+
+        <Button
+            android:id="@+id/BtnSaveData"
+            android:layout_width="140dip"
+            android:layout_height="wrap_content"
+            android:text="设置"
+            android:textSize="20dip" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:layout_weight="0.25"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="10dip" >
+
+    </LinearLayout>
+</LinearLayout>
